@@ -1,0 +1,168 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+
+body {
+	background: #b7d9de;
+}
+
+.agrupar {
+	width: 680px;
+	margin: 0px auto;
+	border: 5px solid black;
+}
+
+
+.contenedor{
+	width: 100%;
+	height: 60px;
+	background: #173fa1;
+	padding: 15px auto;
+	margin-bottom: 30px;
+
+	flex-direction: row;
+	display: flex;
+	justify-content: center;
+}
+
+.item {
+	width: 130px;
+	height: 40px;
+	background: white;
+	margin: 10px;
+}
+
+.contene {
+	width: 90%;
+	height: 170px;
+	margin: 0px auto;
+	background: #d48ffb;
+	margin-bottom: 30px;
+
+	flex-direction: row;
+	display: flex;
+	justify-content: space-between;
+} 
+
+.elemento {
+	width: 150px;
+	height: 130px;
+	background: #2f3a3b;
+	margin: 20px 20px;
+}
+
+.boca {
+	width: 90%;
+	height: 170px;
+	margin: 0px auto;
+	background: #d48ffb;
+	margin-bottom: 30px;
+
+	flex-direction: row;
+	display: flex;
+	justify-content: center;
+}
+
+.dientes {
+	width: 95%;
+	height: 130px;
+	background: #2f3a3b;
+	margin: 20px 20px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.dien {
+	width: 100px;
+	height: 80px;
+	background: white;
+	margin: 20px;
+	margin-top: 25px;
+}
+
+.caja {
+	width: 200px;
+	height: 60px;	
+	background: #d48ffb;
+	margin: 0px auto;
+	margin-bottom: 30px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.cajita {
+	width: 75px;
+	height: 40px;
+	background:  #2f3a3b;
+	margin: 10px auto;
+}
+
+.fle {
+	width: 98%;
+	height: 130px;
+	margin: 0px auto;
+	margin-bottom: 65px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+
+}
+
+.box {
+	width: 150px;
+	height: 120px;
+	background: #dcc895;
+	margin: 20px;
+}
+
+footer {
+	width: 100%;
+	height: 60px;
+	background: #e5e5e5;
+	padding: 5px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.fot {
+	width: 40px;
+	height: 40px;
+	margin: 10px;
+	border-radius: 50%;
+}
+
+
+.fot1 {
+	border: 3px solid #20419a;
+	background: red;
+}
+
+.fot2 {
+	border: 3px solid black;
+	background: #eddce1;
+}
+
+.fot3 {
+	border: 3px solid black;
+	background: #04f64e;
+}
+
+.fot4 {
+	border: 3px solid black;
+	background: #f6d2a7;
+}
+
+.fot5{
+	border: 3px solid yellow;
+	background: #5195ff;
+}
